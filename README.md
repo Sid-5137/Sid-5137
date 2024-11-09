@@ -18,8 +18,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
 </p>
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=Sid-5137&color=blueviolet" alt="Profile Views">
+<!-- Profile Views Badge 
+<img src="https://komarev.com/ghpvc/?username=Sid-5137&color=blueviolet" alt="Profile Views">-->
 
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
