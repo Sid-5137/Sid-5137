@@ -19,19 +19,19 @@
 </p>
 
 <!-- Profile Views Badge 
-<img src="https://komarev.com/ghpvc/?username=Sid-5137&color=blueviolet" alt="Profile Views">-->
+<img src="https://komarev.com/ghpvc/?username=Sid-5137&color=blueviolet" alt="Profile Views">
 
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=Sid-5137&show_icons=true&locale=en&theme=tokyonight" alt="Sid-5137" height="195" />
   
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-5137&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sid-5137" height="195" />
 
-  <!-- GitHub Profile Trophy -->
+  <!-- GitHub Profile Trophy 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Sid-5137&theme=dracula&margin-w=15&margin-h=15" alt="Sid-5137" height="195" />
   </a>
 
-</div>
+</div>-->
